@@ -1,18 +1,26 @@
-# sicp-mailonline
+## Structure and Interpretation of Computer Programs (SICP)
 
-Please feel free to use this skeleton project to start working on the book. Sometimes writing down the code is not necessary to solve a specific exercise, sometime is good to have a REPL handy. There is also room for tests if you prefer approaching a problem test first and test corner cases.
+This fork contains the examples and exercises that I have experimented with
+while working through Abelson & Sussman's classic text.  While the book uses
+Scheme, I have chosen to work through as much as possible in Clojure. 
 
-## Usage
 
-* You need to ask on the mailing list to be sent an invitation for your github account to be added to the project group. (https://groups.google.com/forum/#!forum/sicp-mailonline)
-* When you have write access, git clone this repo
-* Create your own branch with from master with: git checkout -b <your-name-here>
-* Now push your branch back to origin with: git push -u origin <your-name-here>
-* Commit/push as usual.
+## sicp-mailonline
+
+I have been working through the book as a member of the Mailonline SICP Study
+Group, which can be found at: 
+https://groups.google.com/forum/#!forum/sicp-mailonline.
+
+Each member of the group commits their exercise solutions to their own branch of
+the origin repository.  This fork is simply a merge of my branch to master.
+Please refer to the many alternative branches in the origin repository to
+investigate the approaches taken by other members of the group.
+
+If you would like to experiment with SICP yourself, please consider joining the
+study group, and adding your own branch to the origin repository.
+
 
 ## License
-
-Copyright © 2014 Mailonline
 
 Distributed under the Eclipse Public License either version 1.0 or (at
 your option) any later version.
